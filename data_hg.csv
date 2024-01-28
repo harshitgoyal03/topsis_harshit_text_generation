@@ -1,0 +1,6 @@
+Model,Model_size_GB,Inference_Time_ms,BLEU_Score,Fact_Checking_Score_(0-100)
+phi-2,4.9,2.3,41.1,81
+TinyLlama,2.8,3.1,39,91
+PairRM,1.6,0.9,34.8,74
+Yi34-B,3.1,2.6,40.2,83
+Orion-14B-Basel,18.5,3.8,43.2,88
